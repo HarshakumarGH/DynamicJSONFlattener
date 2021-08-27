@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SevenLakes.API.JSONFlattener", "SevenLakes.API.JSONFlattener\SevenLakes.API.JSONFlattener.csproj", "{1524902B-96EB-46AC-A4D0-A88F5406142D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SevenLakes.BusinessLayer", "SevenLakes.BusinessLayer\SevenLakes.BusinessLayer.csproj", "{7DF95AAF-BB01-4D65-957E-AFF8CEF102CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SevenLakes.DataLayer", "SevenLakes.DataLayer\SevenLakes.DataLayer.csproj", "{E4C08232-856F-46B0-98C9-767C13830D9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SevenLakes.API.UnitTest", "SevenLakes.API.UnitTest\SevenLakes.API.UnitTest.csproj", "{85DBA0E7-FB6D-4952-9920-CB13D3FF3173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenLakes.Infrastrcture", "SevenLakes.Infrastrcture\SevenLakes.Infrastrcture.csproj", "{BDB45D39-6017-45AE-9DC9-CA5EA4D5581A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1524902B-96EB-46AC-A4D0-A88F5406142D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1524902B-96EB-46AC-A4D0-A88F5406142D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1524902B-96EB-46AC-A4D0-A88F5406142D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1524902B-96EB-46AC-A4D0-A88F5406142D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF95AAF-BB01-4D65-957E-AFF8CEF102CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF95AAF-BB01-4D65-957E-AFF8CEF102CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF95AAF-BB01-4D65-957E-AFF8CEF102CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF95AAF-BB01-4D65-957E-AFF8CEF102CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C08232-856F-46B0-98C9-767C13830D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C08232-856F-46B0-98C9-767C13830D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C08232-856F-46B0-98C9-767C13830D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C08232-856F-46B0-98C9-767C13830D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85DBA0E7-FB6D-4952-9920-CB13D3FF3173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DBA0E7-FB6D-4952-9920-CB13D3FF3173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DBA0E7-FB6D-4952-9920-CB13D3FF3173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DBA0E7-FB6D-4952-9920-CB13D3FF3173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB45D39-6017-45AE-9DC9-CA5EA4D5581A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB45D39-6017-45AE-9DC9-CA5EA4D5581A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB45D39-6017-45AE-9DC9-CA5EA4D5581A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB45D39-6017-45AE-9DC9-CA5EA4D5581A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6B95A5A-E466-4061-B69B-C682F3436376}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,80 @@
+[
+	{
+		"routename": "Route 1",
+		"stops": [
+			{
+				"stopname": "Stop 1",
+				"objects": [
+					{
+						"objecttype": "tank",
+						"objectname": "MT ACE UNIT 3H WATER TANK"
+					},
+					{
+						"objecttype": "meter",
+						"objectname": "MT ACE UNIT 3H WATER METER"
+					},
+					{
+						"objecttype": "well",
+						"objectname": "MT ACE UNIT 3H WELL"
+					}
+				]
+			},
+			{
+				"stopname": "Stop 2",
+				"objects": [
+					{
+						"objecttype": "tank",
+						"objectname": "MT ACE UNIT 5H WATER TANK"
+					},
+					{
+						"objecttype": "meter",
+						"objectname": "MT ACE UNIT 5H WATER METER"
+					},
+					{
+						"objecttype": "well",
+						"objectname": "MT ACE UNIT 5H WELL"
+					}
+				]
+			}
+		]
+	},
+	{
+		"routename": "Route 2",
+		"stops": [
+			{
+				"stopname": "Stop 1",
+				"objects": [
+					{
+						"objecttype": "tank",
+						"objectname": "MT ACE UNIT 6H WATER TANK"
+					},
+					{
+						"objecttype": "meter",
+						"objectname": "MT ACE UNIT 6H WATER METER"
+					},
+					{
+						"objecttype": "well",
+						"objectname": "MT ACE UNIT 6H WELL"
+					}
+				]
+			},
+			{
+				"stopname": "Stop 2",
+				"objects": [
+					{
+						"objecttype": "tank",
+						"objectname": "MT ACE UNIT 10H WATER TANK"
+					},
+					{
+						"objecttype": "meter",
+						"objectname": "MT ACE UNIT 10H WATER METER"
+					},
+					{
+						"objecttype": "well",
+						"objectname": "MT ACE UNIT 10H WELL"
+					}
+				]
+			}
+		]
+	}
+]
